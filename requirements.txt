@@ -1,5 +1,4 @@
 Flask
-pyttsx3
-gunicorn
-sklearn
 pandas
+scikit-learn
+pyttsx3
