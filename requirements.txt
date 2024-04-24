@@ -3,3 +3,4 @@ pandas
 scikit-learn
 pyttsx3
 gunicorn
+sudo apt-get install espeak
