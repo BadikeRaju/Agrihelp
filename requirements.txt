@@ -1,3 +1,2 @@
 Flask
 pyttsx3
-sklearn
